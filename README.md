@@ -1,5 +1,5 @@
 ![logo](https://github.com/sravs456/sravs456/blob/main/Banner%20Image%20(1).png)
-<img align ="right" src=https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47n51lxaatw43p1om6eukfr358obe7xe47z840e8p4&rid=giphy.gif&ct=g" alt="This is an animated gif image, but it does not move"/>
+
 - 🌱 I’m currently learning **DSA, HLD, LLD, React, MongoDB, Express and Node.js**
 
 - 💬 Ask me about **Selenium, WebdriverIO, Automation Testing, DSA**
