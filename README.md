@@ -1,4 +1,7 @@
 ![logo](https://github.com/sravs456/sravs456/blob/main/Banner%20Image%20(1).png)
+<h1 align="center">Hi 👋, Let's Collaborate to Code</h1>
+<h3 align="center"></h3>
+<img align ="right" src=https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47n51lxaatw43p1om6eukfr358obe7xe47z840e8p4&rid=giphy.gif&ct=g" >
 
 - 🌱 I’m currently learning **DSA, HLD, LLD, React, MongoDB, Express and Node.js**
 
@@ -8,7 +11,9 @@
 
 - ⚡ Fun fact **I keep thinking that I am an Overthinker**
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/sravani-kinjarapu-62618515b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sravani-kinjarapu-62618515b/" height="30" width="40" /></a>
 <a href="https://instagram.com/sravs_the_careless_class" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sravs_the_careless_class" height="30" width="40" /></a>
