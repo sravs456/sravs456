@@ -20,7 +20,6 @@
 <a href="https://www.youtube.com/channel/UCcvizJ57-VTCzq7N9BqjVDg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sravani kinjarapu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ksravani805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ksravani805" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ksravani805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ksravani805" height="30" width="40" /></a>
-<a href="/https://mindspirit415478803.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mindspirit415478803.wordpress.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
